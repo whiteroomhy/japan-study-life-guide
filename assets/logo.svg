@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+<title id="title">Japan Study Guide logo</title><desc id="desc">A red sun rising above an open book.</desc>
+<rect width="160" height="160" rx="36" fill="#fff7f2"/>
+<circle cx="80" cy="58" r="32" fill="#d94b4b"/>
+<path d="M28 92c20-10 37-10 52 0v42c-15-10-32-10-52 0V92Z" fill="#fff" stroke="#24324a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M132 92c-20-10-37-10-52 0v42c15-10 32-10 52 0V92Z" fill="#fff" stroke="#24324a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M80 92v42" stroke="#24324a" stroke-width="6" stroke-linecap="round"/>
+</svg>
